@@ -1,6 +1,8 @@
 In this project, i've built a **Stopwatch**.
-link- https://gk01stpwat.ccbp.tech/
-Technogies Used- React.js, Javascript, CSS, Flexbox
+
+**link**- https://gk01stpwat.ccbp.tech/
+
+**Technogies Used**- React.js, Javascript, CSS, Flexbox
 
 
 ------------------------------------------------------------------------------------------------------
