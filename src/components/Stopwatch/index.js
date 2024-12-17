@@ -25,7 +25,7 @@ class Stopwatch extends Component {
 
   stopClicked = () => {
     clearInterval(this.intervalId)
-    this.setState(prev => ({seconds: prev.seconds + 1, timerOn: false}))
+    this.setState({timerOn: false})
   }
 
   resetClicked = () => {
